@@ -17,6 +17,7 @@ public class Utilities {
         Table t3 = new Table("Table 03", "Table type Modern", 2, false);
         Table t4 = new Table("Table 04", "Table type Modern", 4, false);
         Table t5 = new Table("Table 05", "Table type Modern", 4, false);
+        Table t6 = new Table();;
         //save tables to r1.tables HashMap tables
 
         r1.getTables().put("TABLE-01", t1);
